@@ -62,3 +62,9 @@ public class MathUtility {
 // tuong duong cau:  ham toi chay ngon lam, dung 99,9% lau lau sai ti
 // noi cau do : ham ko dang tin cay de xai
 // ky thuat 2 nay dung mau sac, muon lam the thi phai xai thu vien bo sung them bo sung
+
+
+
+// can co 1 file dac biet de noi voi git tool rang: ai len server, ai o lai local
+// no se khac nhau content tuy theo IDE minh xai, ngon ngu  lap trinh minh xai 
+// co1 ga dev cuc de thuong, lam san nhung file ung voi cac IDE
