@@ -1,6 +1,6 @@
 #Welcome to Math Utility repository
 This repository contains a Java Project to simulate some of math methods founds in JDK Math class
-
+![CI](https://github.com/Thongcao/math-util/workflows/CI/badge.svg)
 
 ## You will find in this repo:
 * Java source code regarding to Math methods located in src/
