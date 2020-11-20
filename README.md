@@ -10,6 +10,8 @@ This repository contains a Java Project to simulate some of math methods founds 
 
 
 ### Connect me via:
-1[Facebook](https://www.facebook.com/)
-2[Email](mailto:)
+1. [Facebook](https://www.facebook.com/)
+2. [Email](mailto:caocongtanthong@gmail.com)
+
+
 #### © 2020 by Thongcao | FPT University,HCM
